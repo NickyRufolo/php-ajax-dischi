@@ -1,0 +1,42 @@
+header {
+    background-color: #2E3A46;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    padding-left: 10px;
+}
+
+.spotify-logo>img {
+    height: 50px;
+    width: 50px;
+}
+
+#app{
+    height: 100vh;
+}
+main {
+    background-color: #1E2D3B;
+    height: 700px;
+    width: 100%;
+}
+.divTutteCard {
+display: flex;
+width: 80%;
+margin:auto;
+padding: 10px 10px;
+justify-content: center;
+flex-wrap: wrap;
+}
+main {
+    background-color: #1E2D3B;
+    height: 700px;
+    width: 100%;
+}
+.divTutteCard {
+display: flex;
+width: 80%;
+margin:auto;
+padding: 10px 10px;
+justify-content: center;
+flex-wrap: wrap;
+}
